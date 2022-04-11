@@ -17,13 +17,13 @@ Here are some ideas to get you started:
 
 
 
-### Hey! I'm KC. Or Karate Chop. Whatever Works.
+### Hey! I'm KC. I use they/he pronouns, and am currently studying at UC Berkeley. 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/karatechop/)
 
 **Thanks for stopping by! Here's a little bit about me:**
 
-I'm currently a junior at UC Berkeley studying an interdisciplinary major combining Data Science, Legal Studies, and Info Tech. I love thinking about big data, user rights, and ethical tech. I have a background in media and adtech, and am currently building out my portfolio and experience with the hope of eventually working in green tech. 
+I'ma junior, and am putting together an interdisciplinary dgree combining Data Science, Legal Studies, and Info Tech. I love thinking about big data, user rights, data in policing, and ethical data.. I have a background in media and adtech, and am currently building out my portfolio in data science! 
 
 **Current Projects/Interests**
 
