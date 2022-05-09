@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 **Thanks for stopping by! Here's a little bit about me:**
 
-I'm a junior, and am putting together an interdisciplinary dgree combining Data Science, Legal Studies, and Info Tech. I love thinking about big data, user rights, data in policing, and ethical data.. I have a background in media and adtech, and am currently building out my portfolio in data science! In my free time, you can find me rock climbing, cave exploring, or playing with my cat! 
+I'm a junior, and am putting together an interdisciplinary degree combining Data Science, Legal Studies, and Info Tech. I love thinking about big data, user rights, data in policing, and ethical data. I have a background in media and adtech, and am currently building out my portfolio in data science! In my free time, you can find me rock climbing, cave exploring, or playing with my cat! 
 
 **Current Projects/Interests**
 
