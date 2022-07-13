@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 
-### Hey! I'm KC. I use they/he pronouns, and am currently studying at UC Berkeley. 
+### Hey! I'm KC. I use they/them pronouns, and am currently studying at UC Berkeley. 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/karatechop/)
 
