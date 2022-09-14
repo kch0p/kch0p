@@ -23,17 +23,18 @@ Here are some ideas to get you started:
 
 **Thanks for stopping by! Here's a little bit about me:**
 
-I'm a junior, and am putting together an interdisciplinary degree combining Data Science, Legal Studies, and Info Tech. I love thinking about big data, user rights, data in policing, and ethical data. I have a background in media and adtech, and am currently building out my portfolio in data science! In my free time, you can find me rock climbing, cave exploring, or playing with my cat! 
+I'm a senior at UC Berkeley, and am putting together an interdisciplinary degree combining Data Science, Criminal Justice, and Info Tech. I love thinking about big data, user rights, data in policing, and ethical data. I have a background in media and adtech, and am aiming to pivot into greentech and renewable energy analysis roles! In my free time, you can find me rock climbing, cave exploring, or playing with my cat! 
 
 **Current Projects/Interests**
 
-- This semester my classes include data analysis/methodology for predictive policing, data ethics and HCE frameworks, and statistical methods for academic work.
+- Finishing my quantitative thesis on police stops in the city of Berkeley, and the larger overall impacts of changes in minor infractions policing in other cities throughout the US. 
 
-- Currently performing data analysis on one 200k record SFPD dataset, and preparing another 60k record dataset of police stops in the city of Berkeley. 
+- Taking 2 climate modelling and analysis classes and adding their projects to my porftolio.
 
-- Learning SQL, and drafting API request projects (more details coming soon!)
+- Learning MapBox and D3.js to create interactive visuals both for my thesis, and other projects!
 
 - Reading up on digital privacy and info science from any one of these amazing resources ([The Intercept](https://theintercept.com/technology/), [The Markup](https://themarkup.org/), [Beacons](https://logicmag.io/beacons/), [EFF](https://www.eff.org/), [Tech Inquiry](https://techinquiry.org/), [Wired](https://www.wired.com/category/security/))
+
 - Reading [*Subprime Attention Crisis*](https://us.macmillan.com/books/9780374538651/subprimeattentioncrisis) by Tim Huang! It's an amazing book. 
 
 
