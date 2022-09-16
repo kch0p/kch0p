@@ -29,7 +29,7 @@ I'm a senior at UC Berkeley, and am putting together an interdisciplinary degree
 
 - Finishing my quantitative thesis on police stops in the city of Berkeley, and the larger overall impacts of changes in minor infractions policing in other cities throughout the US. 
 
-- Taking 2 climate modelling and analysis classes and adding their projects to my porftolio.
+- Taking 2 climate modelling and analysis classes and adding their projects to my portfolio.
 
 - Learning MapBox and D3.js to create interactive visuals both for my thesis, and other projects!
 
