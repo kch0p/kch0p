@@ -27,7 +27,7 @@ I'm a senior at UC Berkeley, and am putting together an interdisciplinary degree
 
 **Current Projects/Interests**
 
-- Finishing my quantitative thesis on police stops in the city of Berkeley, and the larger overall impacts of changes in minor infractions policing in other cities throughout the US. 
+- Finishing my quantitative thesis on critiques of Veil-of-Darkness benchmark methods using 3M California RIPA stops.
 
 - Taking 2 climate modelling and analysis classes and adding their projects to my portfolio.
 
