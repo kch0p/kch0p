@@ -25,15 +25,16 @@ Graduating Senior at UC Berkeley. ISF Thesis Program Data Science / Legal Studie
 
 **Relevant Projects/Courses**
 
-- Machine Learning for Climate Prediction, (CURRENT)
-- Data Analysis for Civil and Environmental Engineering, (CURRENT)
-- Data Engineering 101
-- Data Analysis and NLP in Legal Systems
-- Statistical Analysis for Academic Writing (THESIS PROGRAM)
-- Information Technology and User Rights 
-- History of Privacy & Digital Privacy Rights in the US
+[Machine Learning for Climate Prediction](https://github.com/duncancallaway/ER131_2022_public), (CURRENT)</br>
+[Data Analysis for Civil and Environmental Engineering](https://github.com/ds-modules/CIVENG-190), (CURRENT)</br>
+Data Engineering 101</br>
+[Data Analysis and NLP in Legal Systems](https://github.com/ds-modules/Legalst-123)</br>
+Statistical Analysis for Business Decisions</br>
+Statistical Analysis for Academic Writing (THESIS PROGRAM)</br>
+Information Technology and User Rights </br>
+History of Privacy & Digital Privacy Rights in the US</br>
 
-- Datacamp Data Engineering Career Track, (CURRENT)
+[Datacamp Data Engineering Career Track](https://www.datacamp.com/tracks/data-engineer-with-python), (CURRENT)
 
 ![Gif](https://github.com/kch0p/BPD-Stops-Research-Project/blob/main/GitHub%20Presentation%20Files/map_preview_gif.gif)
 ![Visual](https://user-images.githubusercontent.com/89766547/199140064-6eeeedef-5f62-43b0-8e84-89f1537c85fa.png)
