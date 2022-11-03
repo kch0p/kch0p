@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 
 <!-- **Thanks for stopping by! Here's a little bit about me:**
  -->
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/karatechop/) Graduating Senior at UC Berkeley. ISF Thesis Program Data Science / Legal Studies / Info Tech. They/Them
-
+<!-- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/karatechop/) 
+ -->
 **Relevant Projects/Courses**
 
 [Machine Learning for Climate Prediction](https://github.com/duncancallaway/ER131_2022_public), (CURRENT)</br>
