@@ -32,7 +32,7 @@ Data Engineering 101</br>
 Statistical Analysis for Business Decisions</br>
 Statistical Analysis for Academic Writing (THESIS PROGRAM)</br>
 Information Technology and User Rights </br>
-History of Privacy & Digital Privacy Rights in the US
+History of Privacy & Digital Privacy Rights in the US</br>
 [Datacamp Data Engineering Career Track](https://www.datacamp.com/tracks/data-engineer-with-python), (CURRENT)
 
 ![Gif](https://github.com/kch0p/BPD-Stops-Research-Project/blob/main/GitHub%20Presentation%20Files/map_preview_gif.gif)
