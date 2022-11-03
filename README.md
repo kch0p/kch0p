@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 
 
 
-### Hey! I'm KC. [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/karatechop/)
+<!-- ### Hey! I'm KC.  -->
 
 <!-- **Thanks for stopping by! Here's a little bit about me:**
  -->
-Graduating Senior at UC Berkeley. ISF Thesis Program Data Science / Legal Studies / Info Tech. Ex-TikToker with a background in design/adtech. Current Rock Climber, Cave Explorer, and late night gamer. They/Them
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/karatechop/) Graduating Senior at UC Berkeley. ISF Thesis Program Data Science / Legal Studies / Info Tech. They/Them
 
 **Relevant Projects/Courses**
 
@@ -32,8 +32,7 @@ Data Engineering 101</br>
 Statistical Analysis for Business Decisions</br>
 Statistical Analysis for Academic Writing (THESIS PROGRAM)</br>
 Information Technology and User Rights </br>
-History of Privacy & Digital Privacy Rights in the US</br>
-
+History of Privacy & Digital Privacy Rights in the US
 [Datacamp Data Engineering Career Track](https://www.datacamp.com/tracks/data-engineer-with-python), (CURRENT)
 
 ![Gif](https://github.com/kch0p/BPD-Stops-Research-Project/blob/main/GitHub%20Presentation%20Files/map_preview_gif.gif)
